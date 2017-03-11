@@ -1,0 +1,19 @@
+{
+  "name": "facedetect",
+  "version": "0.1.0",
+  "description": "Simple face detection and recognition service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aksenov A Anatoliy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.1",
+    "opencv": "^6.0.0",
+    "socket.io": "^1.7.3"
+  }
+}
